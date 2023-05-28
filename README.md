@@ -8,6 +8,6 @@ Tehnologii MIT App Inventor (pentru dezvoltarea aplicatiei), HTML (pentru format
 
 Limba Engleza
 
-Pitch link
+Pitch link https://youtu.be/ZZHCFpMpBBI
 
 Demo link https://youtu.be/rT169ZrQHSM
